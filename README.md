@@ -16,7 +16,7 @@
 </p>
 
 ## Como interagir com o banco de dados?
-- Utilizamos o [MongoDB Compass](https://www.mongodb.com/products/tools/compass)
+- Utilizado o [MongoDB Compass](https://www.mongodb.com/products/tools/compass)
 
 ## Como interagir com a API?
 - Utilizado PostMan
