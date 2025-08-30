@@ -15,8 +15,6 @@
 
 </p>
 
-Para um maior entendimento do código deste repositório, [assista nosso vídeo no Youtube, clique aqui.](https://www.youtube.com/watch?v=e_WgAB0Th_I)
-
 ## Como interagir com o banco de dados?
 - Utilizamos o [MongoDB Compass](https://www.mongodb.com/products/tools/compass)
 
